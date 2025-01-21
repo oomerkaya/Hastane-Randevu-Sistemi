@@ -1,6 +1,0 @@
-﻿  hastanerandevusistemi.c
-C:\Users\eksi2\source\repos\Hastane Randevu Sistemi\hastanerandevusistemi.c(16,2): warning C4013: 'gets' undefined; assuming extern returning int
-C:\Users\eksi2\source\repos\Hastane Randevu Sistemi\hastanerandevusistemi.c(964,12): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\eksi2\source\repos\Hastane Randevu Sistemi\hastanerandevusistemi.c(1077,31): warning C4101: 'temelbilgi': unreferenced local variable
-C:\Users\eksi2\source\repos\Hastane Randevu Sistemi\hastanerandevusistemi.c(590,1): warning C4715: 'randevual': not all control paths return a value
-  Hastane Randevu Sistemi.vcxproj -> C:\Users\eksi2\source\repos\Hastane Randevu Sistemi\x64\Debug\Hastane Randevu Sistemi.exe
