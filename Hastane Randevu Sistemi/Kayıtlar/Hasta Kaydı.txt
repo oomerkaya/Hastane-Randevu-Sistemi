@@ -1,0 +1,6 @@
+Hasta Ad/Soyad: omer
+Hasta dogum tarihi: 10/5/2007
+T.C: 12345678900
+Bolum: Kadin Hastaliklari ve Dogum
+Doktor: Dr. Mehmet Eren
+Randevu tarihi: 4/4/2025
